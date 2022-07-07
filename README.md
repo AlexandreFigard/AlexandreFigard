@@ -1,13 +1,11 @@
 <div id="header" align="center">
-	<img src="https://avatars.githubusercontent.com/u/84327508?v=4" style="border-radius: 50%;width: 100px" />
-	<br>	<br>
-	<img src="https://readme-typing-svg.herokuapp.com?font=splash&duration=7000&color=000000&background=FFFFFF&center=true&vCenter=true&width=500&lines=Not a beginner but not an engineer yet" />
-	<br>	<br>
-	<div id="badges">
-  	<a href="www.linkedin.com/in/alexandrefigard" target="_blank" rel="noreferrer">
-		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-	</a>
-	</div>
+<img src="https://avatars.githubusercontent.com/u/84327508?v=4" style="border-radius: 50%;width: 100px" />
+<div id="badges">
+<a href="www.linkedin.com/in/alexandrefigard" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=splash&duration=7000&color=000000&background=FFFFFF&center=true&vCenter=true&width=500&lines=Not a beginner but not an engineer yet" />
 </div>
 	<br>	<br>	<br>
 <h3 align="center">Langages et outils uitilisées:</h3>	<br>
