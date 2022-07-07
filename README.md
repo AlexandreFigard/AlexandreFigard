@@ -2,13 +2,14 @@
 <img src="https://avatars.githubusercontent.com/u/84327508?v=4" style="border-radius: 50%;width: 100px" />
 	<br>
 Not a beginner but not an engineer yet
+		<br>	<br>
 <div id="badges">
 <a href="www.linkedin.com/in/alexandrefigard" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </div>
 </div>
-	<br>	<br>	<br>
+	<br>
 <h3 align="center">Langages et outils uitilisées:</h3>	<br>
 <p align="center">
 	<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
