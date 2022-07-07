@@ -1,5 +1,6 @@
 <div id="header" align="center">
 <img src="https://avatars.githubusercontent.com/u/84327508?v=4" style="border-radius: 50%;width: 100px" />
+	<br>
 Not a beginner but not an engineer yet
 <div id="badges">
 <a href="www.linkedin.com/in/alexandrefigard" target="_blank" rel="noreferrer">
