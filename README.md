@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://github.com/AlexandreFigard/AlexandreFigard/blob/main/banner.png?raw=true" style="border-radius: 50%;width: 100px" />
+<img src="https://github.com/AlexandreFigard/AlexandreFigard/blob/main/banner.png?raw=true" />
 	<br>
 Not a beginner but not an engineer yet
 		<br>	<br>
